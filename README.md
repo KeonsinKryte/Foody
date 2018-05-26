@@ -1,4 +1,4 @@
-# Maquetaci-n
+# Foody
 Carpeta de maquetación, final de Arquitectura de la información
 
 Equipo conformado por Catalina Reyes y Mauricio Botero.
